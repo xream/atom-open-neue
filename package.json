@@ -9,6 +9,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "activationCommands": {
+    "atom-workspace": "open-neue:toggle"
+  },
   "dependencies": {
     "enhanced-resolve": "^3.1.0",
     "lodash": "^4.17.4"
